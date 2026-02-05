@@ -1,0 +1,2063 @@
+[
+  {
+    "id": 1,
+    "name": "Asgaard Premium Sofa",
+    "slug": "asgaard-premium-sofa",
+    "category": "living",
+    "price": 28500000,
+    "oldPrice": 32000000,
+    "discount": 11,
+    "rating": 4.7,
+    "reviewsCount": 127,
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 45,
+    "material": "Premium Italian Leather",
+    "dimensions": "220x95x85 cm",
+    "weight": "85 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-1.jpg",
+      "http://localhost:3001/images/products/asgaard-2.jpg",
+      "http://localhost:3001/images/products/asgaard-3.jpg",
+      "http://localhost:3001/images/products/asgaard-4.jpg"
+    ],
+    "colors": [
+      { "name": "Dark Brown", "code": "#3E2723", "stock": 15 },
+      { "name": "Smoke Gray", "code": "#616161", "stock": 20 },
+      { "name": "Navy Blue", "code": "#0D47A1", "stock": 10 }
+    ],
+    "sizes": [
+      { "name": "Small (2-seater)", "code": "S", "priceAdjustment": -5000000 },
+      { "name": "Medium (3-seater)", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large (4-seater)", "code": "L", "priceAdjustment": 8000000 }
+    ],
+    "description": "Premium leather sofa imported from Italy, minimalist design with elegant lines. Sturdy oak wood frame, comfortable memory foam cushions, chrome-plated metal legs.",
+    "features": [
+      "Scratch-resistant Italian leather",
+      "3-layer memory foam",
+      "Natural oak wood frame",
+      "Easy to clean"
+    ],
+    "sku": "SOFA-001-IT",
+    "tags": ["sofa", "living room", "premium", "leather", "italy"],
+    "relatedIds": [2, 3, 4, 5]
+  },
+  {
+    "id": 2,
+    "name": "Syltherine Dining Set",
+    "slug": "syltherine-dining-set",
+    "category": "dining",
+    "price": 18500000,
+    "oldPrice": 23500000,
+    "discount": 21,
+    "rating": 4.5,
+    "reviewsCount": 89,
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 32,
+    "material": "Natural Walnut Wood",
+    "dimensions": "Table: 180x90x75 cm | Chair: 45x55x85 cm",
+    "weight": "120 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-2.jpg",
+      "http://localhost:3001/images/products/asgaard-3.jpg"
+    ],
+    "colors": [
+      { "name": "Walnut Wood", "code": "#5D4037", "stock": 15 },
+      { "name": "White Oak", "code": "#D7CCC8", "stock": 10 },
+      { "name": "Ash Wood", "code": "#795548", "stock": 7 }
+    ],
+    "sizes": [
+      { "name": "4 chairs", "code": "S", "priceAdjustment": -3000000 },
+      { "name": "6 chairs", "code": "M", "priceAdjustment": 0 },
+      { "name": "8 chairs", "code": "L", "priceAdjustment": 4000000 }
+    ],
+    "description": "6-piece dining set made from natural walnut wood with premium marble tabletop. Modern design suitable for family dining rooms.",
+    "features": [
+      "Natural walnut wood",
+      "Heat-resistant marble top",
+      "Sturdy metal legs",
+      "5-year warranty"
+    ],
+    "sku": "DINE-002-VN",
+    "tags": ["dining table", "dining chairs", "natural wood", "marble"],
+    "relatedIds": [1, 6, 7]
+  },
+
+  {
+    "id": 3,
+    "name": "Leviosa Lounge Chair",
+    "slug": "leviosa-lounge-chair",
+    "category": "living",
+    "price": 8500000,
+    "oldPrice": null,
+    "discount": 0,
+    "rating": 4.3,
+    "reviewsCount": 56,
+    "isNew": true,
+    "isFeatured": false,
+    "stock": 28,
+    "material": "Premium Canvas Fabric",
+    "dimensions": "85x95x105 cm",
+    "weight": "25 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-4.jpg",
+      "http://localhost:3001/images/products/asgaard-1.jpg"
+    ],
+    "colors": [
+      { "name": "Light Gray", "code": "#BDBDBD", "stock": 10 },
+      { "name": "Mint Green", "code": "#80CBC4", "stock": 8 },
+      { "name": "Beige", "code": "#D7CCC8", "stock": 10 }
+    ],
+    "sizes": [
+      { "name": "4 chairs", "code": "S", "priceAdjustment": -3000000 },
+      { "name": "6 chairs", "code": "M", "priceAdjustment": 0 },
+      { "name": "8 chairs", "code": "L", "priceAdjustment": 4000000 }
+    ],
+    "description": "Scandinavian-style relaxation chair with adjustable tilt. Perfect for living rooms and reading corners.",
+    "features": [
+      "Adjustable tilt mechanism",
+      "Stain-resistant canvas fabric",
+      "Stainless steel frame",
+      "Easy to move"
+    ],
+    "sku": "LOUN-003-SC",
+    "tags": ["lounge chair", "scandinavian", "reading chair", "relaxation"],
+    "relatedIds": [1, 4, 9]
+  },
+
+  {
+    "id": 4,
+    "name": "Respira Outdoor Set",
+    "slug": "respira-outdoor-set",
+    "category": "outdoor",
+    "price": 23500000,
+    "oldPrice": null,
+    "discount": 0,
+    "rating": 4.8,
+    "reviewsCount": 43,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 18,
+    "material": "Cast Aluminum + Teak Wood",
+    "dimensions": "Table: 150x90x75 cm | Chair: 60x65x85 cm",
+    "weight": "95 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-3.jpg",
+      "http://localhost:3001/images/products/asgaard-1.jpg"
+    ],
+    "colors": [
+      { "name": "Matte Black", "code": "#212121", "stock": 8 },
+      { "name": "Silver Gray", "code": "#9E9E9E", "stock": 10 }
+    ],
+    "sizes": [
+      { "name": "Small (100cm)", "code": "S", "priceAdjustment": -1500000 },
+      { "name": "Medium (140cm)", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large (180cm)", "code": "L", "priceAdjustment": 2000000 }
+    ],
+    "description": "Waterproof outdoor furniture set that withstands all weather conditions. Modern design perfect for gardens and balconies.",
+    "features": [
+      "100% waterproof",
+      "UV resistant",
+      "Natural teak wood",
+      "Easy maintenance"
+    ],
+    "sku": "OUT-004-AL",
+    "tags": ["outdoor", "garden", "waterproof", "balcony", "patio"],
+    "relatedIds": [5, 8, 12]
+  },
+
+  {
+    "id": 5,
+    "name": "Grifo King Size Bed",
+    "slug": "grifo-king-size-bed",
+    "category": "bedroom",
+    "price": 32500000,
+    "oldPrice": 38000000,
+    "discount": 14,
+    "rating": 4.9,
+    "reviewsCount": 156,
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 22,
+    "material": "American Oak + Velvet Fabric",
+    "dimensions": "220x220x120 cm",
+    "weight": "180 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-1.jpg",
+      "http://localhost:3001/images/products/asgaard-3.jpg",
+      "http://localhost:3001/images/products/asgaard-4.jpg",
+      "http://localhost:3001/images/products/asgaard-2.jpg"
+    ],
+    "colors": [
+      { "name": "Natural Oak", "code": "#8D6E63", "stock": 12 },
+      { "name": "Cream White", "code": "#FAFAFA", "stock": 10 }
+    ],
+    "sizes": [
+      { "name": "Queen (160x200)", "code": "Q", "priceAdjustment": -5000000 },
+      { "name": "King (180x200)", "code": "K", "priceAdjustment": 0 },
+      {
+        "name": "Super King (200x200)",
+        "code": "SK",
+        "priceAdjustment": 8000000
+      }
+    ],
+    "description": "King size bed with plush velvet headboard. Minimalist yet luxurious design with integrated LED lighting system.",
+    "features": [
+      "Premium velvet headboard",
+      "Adjustable integrated LED lighting",
+      "Dual storage compartments",
+      "Sturdy oak wood frame"
+    ],
+    "sku": "BED-005-US",
+    "tags": ["bed", "bedroom", "king size", "led lights", "luxury", "storage"],
+    "relatedIds": [6, 7, 9]
+  },
+
+  {
+    "id": 6,
+    "name": "Muggo Study Desk",
+    "slug": "muggo-study-desk",
+    "category": "office",
+    "price": 7500000,
+    "oldPrice": 9000000,
+    "discount": 17,
+    "rating": 4.4,
+    "reviewsCount": 67,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 40,
+    "material": "Melamine-coated MDF",
+    "dimensions": "140x60x75 cm",
+    "weight": "35 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-1.jpg",
+      "http://localhost:3001/images/products/asgaard-4.jpg"
+    ],
+
+    "colors": [
+      { "name": "Glossy White", "code": "#FFFFFF", "stock": 20 },
+      { "name": "Wood Grain", "code": "#A1887F", "stock": 15 },
+      { "name": "Dark Gray", "code": "#424242", "stock": 5 }
+    ],
+    "sizes": [
+      { "name": "Small (100cm)", "code": "S", "priceAdjustment": -1500000 },
+      { "name": "Medium (140cm)", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large (180cm)", "code": "L", "priceAdjustment": 2000000 }
+    ],
+    "description": "Smart study desk with integrated drawers and bookshelf. Perfect for students and home offices.",
+    "features": [
+      "Smooth sliding drawers",
+      "Integrated bookshelf",
+      "Adjustable height legs",
+      "Scratch-resistant surface"
+    ],
+    "sku": "DESK-006-DE",
+    "tags": [
+      "study desk",
+      "work desk",
+      "student",
+      "home office",
+      "smart furniture"
+    ],
+    "relatedIds": [7, 10, 11]
+  },
+
+  {
+    "id": 7,
+    "name": "Pingky Kids Bed",
+    "slug": "pingky-kids-bed",
+    "category": "kids",
+    "price": 12500000,
+    "oldPrice": 15000000,
+    "discount": 17,
+    "rating": 4.6,
+    "reviewsCount": 92,
+    "isNew": true,
+    "isFeatured": false,
+    "stock": 25,
+    "material": "Pine Wood + Non-toxic Paint",
+    "dimensions": "190x100x140 cm",
+    "weight": "55 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-2.jpg",
+      "http://localhost:3001/images/products/asgaard-3.jpg"
+    ],
+    "colors": [
+      { "name": "Sky Blue", "code": "#29B6F6", "stock": 10 },
+      { "name": "Pink Blush", "code": "#F48FB1", "stock": 8 },
+      { "name": "Mint Green", "code": "#80CBC4", "stock": 7 }
+    ],
+    "sizes": [
+      { "name": "Twin (90x190)", "code": "T", "priceAdjustment": -2000000 },
+      { "name": "Full (140x190)", "code": "F", "priceAdjustment": 0 }
+    ],
+    "description": "Children's bed with safety rails and fun design. Made from non-toxic materials with rounded edges for maximum safety.",
+    "features": [
+      "Safety rails on both sides",
+      "Non-toxic child-safe paint",
+      "Rounded edges",
+      "Integrated storage drawers",
+      "Easy to assemble"
+    ],
+    "sku": "KIDS-007-CA",
+    "tags": [
+      "kids bed",
+      "children furniture",
+      "safe",
+      "storage",
+      "playful design"
+    ],
+    "relatedIds": [8, 12, 13]
+  },
+
+  {
+    "id": 8,
+    "name": "Lolito Ottoman Set",
+    "slug": "lolito-ottoman-set",
+    "category": "living",
+    "price": 14500000,
+    "oldPrice": 18000000,
+    "discount": 19,
+    "rating": 4.2,
+    "reviewsCount": 45,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 38,
+    "material": "Velvet Fabric + Solid Wood",
+    "dimensions": "Ottoman: 60x60x40 cm | Set of 2",
+    "weight": "18 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-4.jpg",
+      "http://localhost:3001/images/products/asgaard-3.jpg"
+    ],
+    "colors": [
+      { "name": "Emerald Green", "code": "#00695C", "stock": 15 },
+      { "name": "Mustard Yellow", "code": "#FFD600", "stock": 12 },
+      { "name": "Burgundy Red", "code": "#AD1457", "stock": 11 }
+    ],
+    "sizes": [
+      { "name": "Single", "code": "S", "priceAdjustment": -5000000 },
+      { "name": "Set of 2", "code": "M", "priceAdjustment": 0 },
+      { "name": "Set of 3", "code": "L", "priceAdjustment": 4500000 }
+    ],
+    "description": "Set of 2 velvet ottomans with solid wood legs. Versatile furniture pieces that can be used as footrests, extra seating, or coffee tables.",
+    "features": [
+      "Luxury velvet fabric",
+      "Solid wood legs",
+      "Removable washable covers",
+      "Multi-functional"
+    ],
+    "sku": "OTTO-008-UK",
+    "tags": ["ottoman", "footrest", "extra seating", "velvet", "living room"],
+    "relatedIds": [1, 3, 9]
+  },
+
+  {
+    "id": 9,
+    "name": "Modern Bookshelf",
+    "slug": "modern-bookshelf",
+    "category": "living",
+    "price": 10500000,
+    "oldPrice": 13000000,
+    "discount": 19,
+    "rating": 4.5,
+    "reviewsCount": 78,
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 30,
+    "material": "Metal + Tempered Glass",
+    "dimensions": "180x35x200 cm",
+    "weight": "42 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-3.jpg",
+      "http://localhost:3001/images/products/asgaard-1.jpg"
+    ],
+    "colors": [
+      { "name": "Black", "code": "#000000", "stock": 15 },
+      { "name": "Chrome Silver", "code": "#B0BEC5", "stock": 10 },
+      { "name": "Bronze", "code": "#6D4C41", "stock": 5 }
+    ],
+    "sizes": [
+      { "name": "Small (120cm)", "code": "S", "priceAdjustment": -3000000 },
+      { "name": "Medium (180cm)", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large (240cm)", "code": "L", "priceAdjustment": 4000000 }
+    ],
+    "description": "Floor-to-ceiling bookshelf with tempered glass doors. Modern geometric design with adjustable shelves.",
+    "features": [
+      "Tempered glass doors",
+      "Adjustable shelves",
+      "LED lighting included",
+      "Sturdy metal frame"
+    ],
+    "sku": "BOOK-009-FR",
+    "tags": ["bookshelf", "bookcase", "storage", "modern", "glass doors"],
+    "relatedIds": [5, 6, 10]
+  },
+
+  {
+    "id": 10,
+    "name": "Ergonomic Office Chair",
+    "slug": "ergonomic-office-chair",
+    "category": "office",
+    "price": 12500000,
+    "oldPrice": 15000000,
+    "discount": 17,
+    "rating": 4.7,
+    "reviewsCount": 203,
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 55,
+    "material": "Mesh Fabric + Aluminum",
+    "dimensions": "65x65x120-135 cm",
+    "weight": "28 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-4.jpg",
+      "http://localhost:3001/images/products/asgaard-2.jpg"
+    ],
+    "colors": [
+      { "name": "Black Mesh", "code": "#263238", "stock": 25 },
+      { "name": "Blue Mesh", "code": "#1565C0", "stock": 15 },
+      { "name": "Gray Mesh", "code": "#546E7A", "stock": 15 }
+    ],
+    "sizes": [
+      { "name": "Standard", "code": "S", "priceAdjustment": 0 },
+      { "name": "Executive", "code": "M", "priceAdjustment": 2000000 }
+    ],
+    "description": "Premium ergonomic office chair with lumbar support and adjustable features. Perfect for long working hours.",
+    "features": [
+      "Adjustable lumbar support",
+      "Breathable mesh back",
+      "Adjustable armrests",
+      "360-degree rotation",
+      "Tilt lock mechanism"
+    ],
+    "sku": "CHAIR-010-ER",
+    "tags": [
+      "office chair",
+      "ergonomic",
+      "mesh",
+      "adjustable",
+      "lumbar support"
+    ],
+    "relatedIds": [6, 11, 14]
+  },
+
+  {
+    "id": 11,
+    "name": "Nordic Coffee Table",
+    "slug": "nordic-coffee-table",
+    "category": "living",
+    "price": 6500000,
+    "oldPrice": 8000000,
+    "discount": 19,
+    "rating": 4.4,
+    "reviewsCount": 89,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 42,
+    "material": "Solid Oak + Glass",
+    "dimensions": "120x60x45 cm",
+    "weight": "32 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-2.jpg",
+      "http://localhost:3001/images/products/asgaard-3.jpg"
+    ],
+    "colors": [
+      { "name": "Natural Oak", "code": "#8D6E63", "stock": 20 },
+      { "name": "Dark Walnut", "code": "#4E342E", "stock": 15 },
+      { "name": "White Wash", "code": "#F5F5F5", "stock": 7 }
+    ],
+    "sizes": [
+      { "name": "Small (90cm)", "code": "S", "priceAdjustment": -1000000 },
+      { "name": "Medium (120cm)", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large (150cm)", "code": "L", "priceAdjustment": 1500000 }
+    ],
+    "description": "Scandinavian-style coffee table with tempered glass top and solid oak frame. Minimalist design with storage shelf.",
+    "features": [
+      "Tempered 8mm glass top",
+      "Solid oak frame",
+      "Bottom storage shelf",
+      "Easy to clean"
+    ],
+    "sku": "TABLE-011-NO",
+    "tags": ["coffee table", "scandinavian", "oak", "glass top", "living room"],
+    "relatedIds": [1, 3, 8]
+  },
+
+  {
+    "id": 12,
+    "name": "Outdoor Lounge Set",
+    "slug": "outdoor-lounge-set",
+    "category": "outdoor",
+    "price": 28500000,
+    "oldPrice": 35000000,
+    "discount": 19,
+    "rating": 4.6,
+    "reviewsCount": 56,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 15,
+    "material": "Rattan + Waterproof Cushions",
+    "dimensions": "Sofa: 180x85x75 cm | Chair: 80x85x75 cm",
+    "weight": "110 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-4.jpg",
+      "http://localhost:3001/images/products/asgaard-3.jpg"
+    ],
+    "colors": [
+      { "name": "Gray Rattan", "code": "#757575", "stock": 8 },
+      { "name": "Brown Rattan", "code": "#5D4037", "stock": 7 }
+    ],
+    "sizes": [
+      { "name": "3-piece set", "code": "S", "priceAdjustment": -5000000 },
+      { "name": "5-piece set", "code": "M", "priceAdjustment": 0 },
+      { "name": "7-piece set", "code": "L", "priceAdjustment": 7000000 }
+    ],
+    "description": "Complete outdoor lounge set with weather-resistant synthetic rattan and waterproof cushions. Perfect for patio or garden.",
+    "features": [
+      "UV-resistant synthetic rattan",
+      "Quick-dry waterproof cushions",
+      "Aluminum frame",
+      "Modular design"
+    ],
+    "sku": "LOUNGE-012-ES",
+    "tags": ["outdoor", "lounge set", "rattan", "patio", "garden furniture"],
+    "relatedIds": [4, 13, 14]
+  },
+
+  {
+    "id": 13,
+    "name": "Dressing Table with Mirror",
+    "slug": "dressing-table-with-mirror",
+    "category": "bedroom",
+    "price": 9500000,
+    "oldPrice": 11500000,
+    "discount": 17,
+    "rating": 4.3,
+    "reviewsCount": 67,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 28,
+    "material": "MDF + LED Mirror",
+    "dimensions": "100x45x150 cm",
+    "weight": "38 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-2.jpg",
+      "http://localhost:3001/images/products/asgaard-1.jpg"
+    ],
+    "colors": [
+      { "name": "White", "code": "#FFFFFF", "stock": 15 },
+      { "name": "Pink Gold", "code": "#E0B0A0", "stock": 8 },
+      { "name": "Light Gray", "code": "#E0E0E0", "stock": 5 }
+    ],
+    "sizes": [
+      { "name": "Compact (80cm)", "code": "S", "priceAdjustment": -2000000 },
+      { "name": "Standard (100cm)", "code": "M", "priceAdjustment": 0 }
+    ],
+    "description": "Vanity table with LED illuminated mirror and multiple storage drawers. Perfect for bedroom or dressing room.",
+    "features": [
+      "LED illuminated mirror",
+      "Multiple storage drawers",
+      "Soft-close drawers",
+      "Built-in power outlet"
+    ],
+    "sku": "DRESS-013-VN",
+    "tags": ["dressing table", "vanity", "mirror", "led", "bedroom"],
+    "relatedIds": [5, 7, 9]
+  },
+
+  {
+    "id": 14,
+    "name": "Bar Stool Set",
+    "slug": "bar-stool-set",
+    "category": "dining",
+    "price": 12500000,
+    "oldPrice": 15500000,
+    "discount": 19,
+    "rating": 4.5,
+    "reviewsCount": 45,
+    "isNew": true,
+    "isFeatured": false,
+    "stock": 35,
+    "material": "Metal + PU Leather",
+    "dimensions": "45x45x75-95 cm",
+    "weight": "12 kg each",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-1.jpg",
+      "http://localhost:3001/images/products/asgaard-3.jpg"
+    ],
+    "colors": [
+      { "name": "Black Leather", "code": "#212121", "stock": 15 },
+      { "name": "Brown Leather", "code": "#5D4037", "stock": 12 },
+      { "name": "Cognac Leather", "code": "#6D4C41", "stock": 8 }
+    ],
+    "sizes": [
+      { "name": "Set of 2", "code": "S", "priceAdjustment": -5000000 },
+      { "name": "Set of 4", "code": "M", "priceAdjustment": 0 },
+      { "name": "Set of 6", "code": "L", "priceAdjustment": 6500000 }
+    ],
+    "description": "Set of 4 adjustable height bar stools with comfortable PU leather seats and footrests.",
+    "features": [
+      "Adjustable height (75-95cm)",
+      "PU leather seats",
+      "360-degree swivel",
+      "Footrest for comfort"
+    ],
+    "sku": "BAR-014-BR",
+    "tags": ["bar stool", "kitchen island", "adjustable", "counter stool"],
+    "relatedIds": [2, 4, 10]
+  },
+
+  {
+    "id": 15,
+    "name": "TV Stand Cabinet",
+    "slug": "tv-stand-cabinet",
+    "category": "living",
+    "price": 11500000,
+    "oldPrice": 14000000,
+    "discount": 18,
+    "rating": 4.4,
+    "reviewsCount": 78,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 33,
+    "material": "Engineered Wood + Metal",
+    "dimensions": "180x40x50 cm",
+    "weight": "45 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-4.jpg",
+      "http://localhost:3001/images/products/asgaard-1.jpg"
+    ],
+    "colors": [
+      { "name": "Black Brown", "code": "#3E2723", "stock": 15 },
+      { "name": "White", "code": "#FAFAFA", "stock": 12 },
+      { "name": "Walnut", "code": "#5D4037", "stock": 6 }
+    ],
+    "sizes": [
+      { "name": "120cm", "code": "S", "priceAdjustment": -3000000 },
+      { "name": "180cm", "code": "M", "priceAdjustment": 0 },
+      { "name": "240cm", "code": "L", "priceAdjustment": 4000000 }
+    ],
+    "description": "Modern TV stand with cable management system and multiple storage compartments. Supports up to 65-inch TVs.",
+    "features": [
+      "Cable management system",
+      "Adjustable shelves",
+      "Drawers with soft-close",
+      "Ventilation holes"
+    ],
+    "sku": "TVSTAND-015-JP",
+    "tags": [
+      "tv stand",
+      "entertainment center",
+      "media console",
+      "cable management"
+    ],
+    "relatedIds": [1, 9, 11]
+  },
+
+  {
+    "id": 16,
+    "name": "Kids Study Desk",
+    "slug": "kids-study-desk",
+    "category": "kids",
+    "price": 5500000,
+    "oldPrice": 7000000,
+    "discount": 21,
+    "rating": 4.6,
+    "reviewsCount": 92,
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 40,
+    "material": "Plastic + MDF",
+    "dimensions": "100x60x75-90 cm",
+    "weight": "22 kg",
+    "images": [
+      "http://localhost:3001/images/products/asgaard-2.jpg",
+      "http://localhost:3001/images/products/asgaard-3.jpg"
+    ],
+    "colors": [
+      { "name": "Blue", "code": "#2196F3", "stock": 15 },
+      { "name": "Pink", "code": "#E91E63", "stock": 12 },
+      { "name": "Green", "code": "#4CAF50", "stock": 13 }
+    ],
+    "sizes": [
+      { "name": "Adjustable Height", "code": "A", "priceAdjustment": 0 },
+      { "name": "Fixed Height", "code": "F", "priceAdjustment": -1000000 }
+    ],
+    "description": "Ergonomic study desk for children with adjustable height and tiltable tabletop. Designed to grow with your child.",
+    "features": [
+      "Height adjustable (75-90cm)",
+      "Tiltable tabletop",
+      "Non-toxic materials",
+      "Book storage compartment",
+      "Easy to clean surface"
+    ],
+    "sku": "KIDDESK-016-DK",
+    "tags": ["kids desk", "study desk", "adjustable", "children", "ergonomic"],
+    "relatedIds": [7, 17, 18]
+  },
+
+  {
+    "id": 17,
+    "name": "Wardrobe Closet",
+    "slug": "wardrobe-closet",
+    "category": "bedroom",
+    "price": 28500000,
+    "oldPrice": 35000000,
+    "discount": 19,
+    "rating": 4.7,
+    "reviewsCount": 134,
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 20,
+    "material": "Particle Board + Mirror",
+    "dimensions": "200x60x220 cm",
+    "weight": "120 kg",
+    "images": [
+      "/images/products/wardrobe-1.jpg",
+      "/images/products/wardrobe-2.jpg"
+    ],
+    "colors": [
+      { "name": "White Glossy", "code": "#FFFFFF", "stock": 8 },
+      { "name": "Gray Matt", "code": "#757575", "stock": 7 },
+      { "name": "Walnut", "code": "#5D4037", "stock": 5 }
+    ],
+    "sizes": [
+      { "name": "2 Doors", "code": "S", "priceAdjustment": -8000000 },
+      { "name": "3 Doors", "code": "M", "priceAdjustment": 0 },
+      { "name": "4 Doors", "code": "L", "priceAdjustment": 10000000 }
+    ],
+    "description": "Spacious sliding door wardrobe with mirror panels and interior lighting. Multiple compartments for organized storage.",
+    "features": [
+      "Sliding mirror doors",
+      "LED interior lighting",
+      "Multiple shelves and rods",
+      "Soft-close mechanism",
+      "Shoe racks included"
+    ],
+    "sku": "WARD-017-SE",
+    "tags": ["wardrobe", "closet", "storage", "sliding doors", "mirror"],
+    "relatedIds": [5, 9, 13]
+  },
+
+  {
+    "id": 18,
+    "name": "Accent Chair Velvet",
+    "slug": "accent-chair-velvet",
+    "category": "living",
+    "price": 8500000,
+    "oldPrice": 10500000,
+    "discount": 19,
+    "rating": 4.3,
+    "reviewsCount": 56,
+    "isNew": true,
+    "isFeatured": false,
+    "stock": 38,
+    "material": "Velvet + Solid Wood",
+    "dimensions": "75x85x95 cm",
+    "weight": "22 kg",
+    "images": [
+      "/images/products/accent-chair-1.jpg",
+      "/images/products/accent-chair-2.jpg"
+    ],
+    "colors": [
+      { "name": "Emerald Green", "code": "#00695C", "stock": 15 },
+      { "name": "Blush Pink", "code": "#F8BBD0", "stock": 12 },
+      { "name": "Navy Blue", "code": "#0D47A1", "stock": 11 }
+    ],
+    "sizes": [
+      { "name": "Small (100cm)", "code": "S", "priceAdjustment": -1500000 },
+      { "name": "Medium (140cm)", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large (180cm)", "code": "L", "priceAdjustment": 2000000 }
+    ],
+    "description": "Statement velvet accent chair with elegant curved backrest and tapered wood legs. Perfect for adding color to any room.",
+    "features": [
+      "Premium velvet fabric",
+      "Solid wood legs",
+      "Comfortable cushioning",
+      "Lightweight and movable"
+    ],
+    "sku": "ACCENT-018-PT",
+    "tags": ["accent chair", "velvet", "statement piece", "decorative"],
+    "relatedIds": [1, 3, 8]
+  },
+
+  {
+    "id": 19,
+    "name": "Executive Desk",
+    "slug": "executive-desk",
+    "category": "office",
+    "price": 18500000,
+    "oldPrice": 22500000,
+    "discount": 18,
+    "rating": 4.8,
+    "reviewsCount": 89,
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 25,
+    "material": "Solid Wood + Leather Inlay",
+    "dimensions": "180x80x75 cm",
+    "weight": "85 kg",
+    "images": [
+      "/images/products/executive-desk-1.jpg",
+      "/images/products/executive-desk-2.jpg"
+    ],
+    "colors": [
+      { "name": "Mahogany", "code": "#4E342E", "stock": 10 },
+      { "name": "Cherry Wood", "code": "#6D4C41", "stock": 8 },
+      { "name": "Black Wood", "code": "#212121", "stock": 7 }
+    ],
+    "sizes": [
+      { "name": "160cm", "code": "S", "priceAdjustment": -3000000 },
+      { "name": "180cm", "code": "M", "priceAdjustment": 0 },
+      { "name": "200cm", "code": "L", "priceAdjustment": 4000000 }
+    ],
+    "description": "Luxury executive desk with leather inlay and built-in cable management. Perfect for home office or corporate setting.",
+    "features": [
+      "Leather writing surface inlay",
+      "Built-in cable management",
+      "File drawers with locks",
+      "Solid wood construction",
+      "Drawer organizers included"
+    ],
+    "sku": "EXEC-019-US",
+    "tags": [
+      "executive desk",
+      "office desk",
+      "luxury",
+      "leather",
+      "professional"
+    ],
+    "relatedIds": [6, 10, 14]
+  },
+
+  {
+    "id": 20,
+    "name": "Nursery Dresser",
+    "slug": "nursery-dresser",
+    "category": "kids",
+    "price": 8500000,
+    "oldPrice": 10500000,
+    "discount": 19,
+    "rating": 4.5,
+    "reviewsCount": 67,
+    "isNew": true,
+    "isFeatured": false,
+    "stock": 28,
+    "material": "MDF + Non-toxic Paint",
+    "dimensions": "100x45x80 cm",
+    "weight": "35 kg",
+    "images": [
+      "/images/products/nursery-dresser-1.jpg",
+      "/images/products/nursery-dresser-2.jpg"
+    ],
+    "colors": [
+      { "name": "White", "code": "#FAFAFA", "stock": 12 },
+      { "name": "Light Blue", "code": "#B3E5FC", "stock": 8 },
+      { "name": "Soft Pink", "code": "#FCE4EC", "stock": 8 }
+    ],
+    "sizes": [
+      { "name": "5 Drawers", "code": "S", "priceAdjustment": -1500000 },
+      { "name": "7 Drawers", "code": "M", "priceAdjustment": 0 }
+    ],
+    "description": "Baby changing table and dresser combo with safety rail and multiple storage drawers. Perfect for nursery organization.",
+    "features": [
+      "Changing table included",
+      "Safety rail",
+      "Non-toxic paint",
+      "Soft-close drawers",
+      "Diaper storage compartment"
+    ],
+    "sku": "NURSERY-020-CA",
+    "tags": [
+      "nursery",
+      "dresser",
+      "changing table",
+      "baby furniture",
+      "storage"
+    ],
+    "relatedIds": [7, 16, 21]
+  },
+
+  {
+    "id": 21,
+    "name": "Sectional Sofa L-Shape",
+    "slug": "sectional-sofa-l-shape",
+    "category": "living",
+    "price": 38500000,
+    "oldPrice": 45000000,
+    "discount": 14,
+    "rating": 4.9,
+    "reviewsCount": 178,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 18,
+    "material": "Fabric + Memory Foam",
+    "dimensions": "280x180x85 cm",
+    "weight": "150 kg",
+    "images": [
+      "/images/products/sectional-1.jpg",
+      "/images/products/sectional-2.jpg",
+      "/images/products/sectional-3.jpg"
+    ],
+    "colors": [
+      { "name": "Charcoal Gray", "code": "#37474F", "stock": 8 },
+      { "name": "Navy Blue", "code": "#0D47A1", "stock": 5 },
+      { "name": "Beige", "code": "#D7CCC8", "stock": 5 }
+    ],
+    "sizes": [
+      { "name": "Small (3-seater)", "code": "S", "priceAdjustment": -8000000 },
+      { "name": "Medium (L-shape)", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large (U-shape)", "code": "L", "priceAdjustment": 12000000 }
+    ],
+    "description": "Modular L-shaped sectional sofa with chaise lounge. Deep seating with high-density memory foam cushions.",
+    "features": [
+      "Modular design",
+      "Chaise lounge included",
+      "High-density memory foam",
+      "Removable washable covers",
+      "Sturdy hardwood frame"
+    ],
+    "sku": "SECTIONAL-021-IT",
+    "tags": [
+      "sectional sofa",
+      "l-shaped",
+      "chaise lounge",
+      "modular",
+      "family sofa"
+    ],
+    "relatedIds": [1, 3, 8]
+  },
+
+  {
+    "id": 22,
+    "name": "Kitchen Island Cart",
+    "slug": "kitchen-island-cart",
+    "category": "dining",
+    "price": 7500000,
+    "oldPrice": 9500000,
+    "discount": 21,
+    "rating": 4.4,
+    "reviewsCount": 89,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 42,
+    "material": "Stainless Steel + Wood",
+    "dimensions": "120x60x90 cm",
+    "weight": "45 kg",
+    "images": [
+      "/images/products/kitchen-island-1.jpg",
+      "/images/products/kitchen-island-2.jpg"
+    ],
+    "colors": [
+      { "name": "Stainless Steel", "code": "#CFD8DC", "stock": 20 },
+      { "name": "Black", "code": "#212121", "stock": 15 },
+      { "name": "Copper", "code": "#FF8A65", "stock": 7 }
+    ],
+    "sizes": [
+      { "name": "Small (100cm)", "code": "S", "priceAdjustment": -1500000 },
+      { "name": "Medium (120cm)", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large (150cm)", "code": "L", "priceAdjustment": 2000000 }
+    ],
+    "description": "Mobile kitchen island with butcher block top and storage shelves. Perfect for extra prep space and storage.",
+    "features": [
+      "Butcher block top",
+      "Locking castor wheels",
+      "Storage shelves",
+      "Stainless steel frame",
+      "Towel rack included"
+    ],
+    "sku": "KITCHEN-022-DE",
+    "tags": ["kitchen island", "cart", "mobile", "butcher block", "storage"],
+    "relatedIds": [2, 14, 23]
+  },
+
+  {
+    "id": 23,
+    "name": "Bunk Bed with Desk",
+    "slug": "bunk-bed-with-desk",
+    "category": "kids",
+    "price": 18500000,
+    "oldPrice": 22500000,
+    "discount": 18,
+    "rating": 4.6,
+    "reviewsCount": 78,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 22,
+    "material": "Solid Pine + Safety Rails",
+    "dimensions": "200x100x180 cm",
+    "weight": "95 kg",
+    "images": [
+      "/images/products/bunk-bed-1.jpg",
+      "/images/products/bunk-bed-2.jpg"
+    ],
+    "colors": [
+      { "name": "Natural Pine", "code": "#BCAAA4", "stock": 10 },
+      { "name": "White", "code": "#FFFFFF", "stock": 8 },
+      { "name": "Blue", "code": "#2196F3", "stock": 4 }
+    ],
+    "sizes": [
+      { "name": "Twin over Twin", "code": "TT", "priceAdjustment": 0 },
+      { "name": "Twin over Full", "code": "TF", "priceAdjustment": 3000000 }
+    ],
+    "description": "Space-saving bunk bed with integrated study desk and storage drawers. Safety rails and sturdy ladder included.",
+    "features": [
+      "Integrated study desk",
+      "Safety rails on top bunk",
+      "Storage drawers",
+      "Sturdy ladder",
+      "Non-toxic finish"
+    ],
+    "sku": "BUNK-023-SE",
+    "tags": ["bunk bed", "kids bed", "space saving", "desk", "storage"],
+    "relatedIds": [7, 16, 20]
+  },
+
+  {
+    "id": 24,
+    "name": "Console Table Entryway",
+    "slug": "console-table-entryway",
+    "category": "living",
+    "price": 5500000,
+    "oldPrice": 7000000,
+    "discount": 21,
+    "rating": 4.3,
+    "reviewsCount": 56,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 38,
+    "material": "Metal + Marble",
+    "dimensions": "120x35x80 cm",
+    "weight": "28 kg",
+    "images": [
+      "/images/products/console-table-1.jpg",
+      "/images/products/console-table-2.jpg"
+    ],
+    "colors": [
+      { "name": "Black Metal + White Marble", "code": "#000000", "stock": 15 },
+      { "name": "Gold Metal + Carrara Marble", "code": "#FFD700", "stock": 12 },
+      { "name": "Brass + Nero Marquina", "code": "#B76E79", "stock": 11 }
+    ],
+    "sizes": [
+      { "name": "Small (100cm)", "code": "S", "priceAdjustment": -1000000 },
+      { "name": "Medium (120cm)", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large (150cm)", "code": "L", "priceAdjustment": 1500000 }
+    ],
+    "description": "Elegant entryway console table with marble top and metal frame. Perfect for hallway decoration and storage.",
+    "features": [
+      "Marble tabletop",
+      "Metal frame",
+      "Bottom shelf",
+      "Easy to assemble",
+      "Modern design"
+    ],
+    "sku": "CONSOLE-024-IT",
+    "tags": ["console table", "entryway", "hallway", "marble", "decorative"],
+    "relatedIds": [9, 11, 15]
+  },
+
+  {
+    "id": 25,
+    "name": "Gaming Chair Pro",
+    "slug": "gaming-chair-pro",
+    "category": "office",
+    "price": 13500000,
+    "oldPrice": 16500000,
+    "discount": 18,
+    "rating": 4.7,
+    "reviewsCount": 234,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 65,
+    "material": "PU Leather + Memory Foam",
+    "dimensions": "70x70x130-140 cm",
+    "weight": "32 kg",
+    "images": [
+      "/images/products/gaming-chair-1.jpg",
+      "/images/products/gaming-chair-2.jpg"
+    ],
+    "colors": [
+      { "name": "Black/Red", "code": "#000000", "stock": 25 },
+      { "name": "White/Blue", "code": "#FFFFFF", "stock": 20 },
+      { "name": "Black/Green", "code": "#000000", "stock": 20 }
+    ],
+    "sizes": [
+      { "name": "Standard", "code": "S", "priceAdjustment": 0 },
+      { "name": "XL Size", "code": "XL", "priceAdjustment": 2000000 }
+    ],
+    "description": "Professional gaming chair with lumbar support, headrest pillow, and adjustable armrests. Perfect for long gaming sessions.",
+    "features": [
+      "Adjustable lumbar support",
+      "Memory foam cushions",
+      "360-degree rotation",
+      "Reclining backrest",
+      "Class 4 gas lift"
+    ],
+    "sku": "GAMING-025-US",
+    "tags": [
+      "gaming chair",
+      "ergonomic",
+      "racing style",
+      "adjustable",
+      "pro gaming"
+    ],
+    "relatedIds": [6, 10, 19]
+  },
+
+  {
+    "id": 26,
+    "name": "Outdoor Dining Set",
+    "slug": "outdoor-dining-set",
+    "category": "outdoor",
+    "price": 32500000,
+    "oldPrice": 40000000,
+    "discount": 19,
+    "rating": 4.5,
+    "reviewsCount": 67,
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 18,
+    "material": "Teak Wood + Aluminum",
+    "dimensions": "Table: 200x100x75 cm | Chairs: 45x55x85 cm",
+    "weight": "135 kg",
+    "images": [
+      "/images/products/outdoor-dining-1.jpg",
+      "/images/products/outdoor-dining-2.jpg"
+    ],
+    "colors": [
+      { "name": "Natural Teak", "code": "#8D6E63", "stock": 8 },
+      { "name": "Gray Teak", "code": "#757575", "stock": 10 }
+    ],
+    "sizes": [
+      { "name": "6 chairs", "code": "S", "priceAdjustment": -5000000 },
+      { "name": "8 chairs", "code": "M", "priceAdjustment": 0 },
+      { "name": "10 chairs", "code": "L", "priceAdjustment": 6000000 }
+    ],
+    "description": "Complete outdoor dining set made from weather-resistant teak wood. Perfect for garden parties and family gatherings.",
+    "features": [
+      "Weather-resistant teak wood",
+      "Aluminum frame",
+      "Umbrella hole in table",
+      "Stackable chairs",
+      "Low maintenance"
+    ],
+    "sku": "OUTDINE-026-MY",
+    "tags": [
+      "outdoor dining",
+      "garden furniture",
+      "teak wood",
+      "patio",
+      "weather resistant"
+    ],
+    "relatedIds": [4, 12, 14]
+  },
+
+  {
+    "id": 27,
+    "name": "Shoe Rack Cabinet",
+    "slug": "shoe-rack-cabinet",
+    "category": "living",
+    "price": 4500000,
+    "oldPrice": 6000000,
+    "discount": 25,
+    "rating": 4.2,
+    "reviewsCount": 134,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 50,
+    "material": "Engineered Wood + Fabric",
+    "dimensions": "80x35x100 cm",
+    "weight": "25 kg",
+    "images": [
+      "/images/products/shoe-rack-1.jpg",
+      "/images/products/shoe-rack-2.jpg"
+    ],
+    "colors": [
+      { "name": "White", "code": "#FFFFFF", "stock": 20 },
+      { "name": "Black", "code": "#212121", "stock": 18 },
+      { "name": "Gray", "code": "#757575", "stock": 12 }
+    ],
+    "sizes": [
+      { "name": "12 pairs", "code": "S", "priceAdjustment": -1000000 },
+      { "name": "18 pairs", "code": "M", "priceAdjustment": 0 },
+      { "name": "24 pairs", "code": "L", "priceAdjustment": 1500000 }
+    ],
+    "description": "Space-saving shoe storage cabinet with fabric bins and ventilation holes. Keeps entryway organized and tidy.",
+    "features": [
+      "Fabric storage bins",
+      "Ventilation holes",
+      "Easy assembly",
+      "Stackable design",
+      "Anti-tip device"
+    ],
+    "sku": "SHOE-027-KR",
+    "tags": [
+      "shoe rack",
+      "shoe storage",
+      "entryway",
+      "organization",
+      "cabinet"
+    ],
+    "relatedIds": [9, 15, 17]
+  },
+
+  {
+    "id": 28,
+    "name": "Modern Floor Lamp",
+    "slug": "modern-floor-lamp",
+    "category": "living",
+    "price": 3500000,
+    "oldPrice": 4500000,
+    "discount": 22,
+    "rating": 4.4,
+    "reviewsCount": 189,
+    "isNew": true,
+    "isFeatured": false,
+    "stock": 75,
+    "material": "Metal + Fabric",
+    "dimensions": "160x40x40 cm",
+    "weight": "8 kg",
+    "images": [
+      "/images/products/floor-lamp-1.jpg",
+      "/images/products/floor-lamp-2.jpg"
+    ],
+    "colors": [
+      { "name": "Black", "code": "#000000", "stock": 30 },
+      { "name": "White", "code": "#FFFFFF", "stock": 25 },
+      { "name": "Brass", "code": "#B76E79", "stock": 20 }
+    ],
+    "sizes": [
+      { "name": "Standard", "code": "S", "priceAdjustment": 0 },
+      { "name": "Adjustable Height", "code": "A", "priceAdjustment": 1000000 }
+    ],
+    "description": "Contemporary floor lamp with fabric shade and dimmable LED light. Perfect for reading corner or living room.",
+    "features": [
+      "Dimmable LED",
+      "Fabric shade",
+      "Adjustable head",
+      "Touch control",
+      "Energy efficient"
+    ],
+    "sku": "LAMP-028-DK",
+    "tags": ["floor lamp", "lighting", "dimmable", "led", "modern"],
+    "relatedIds": [1, 3, 11]
+  },
+
+  {
+    "id": 29,
+    "name": "Filing Cabinet",
+    "slug": "filing-cabinet",
+    "category": "office",
+    "price": 6500000,
+    "oldPrice": 8500000,
+    "discount": 24,
+    "rating": 4.3,
+    "reviewsCount": 78,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 45,
+    "material": "Steel + Lock",
+    "dimensions": "45x55x70 cm",
+    "weight": "28 kg",
+    "images": [
+      "/images/products/filing-cabinet-1.jpg",
+      "/images/products/filing-cabinet-2.jpg"
+    ],
+    "colors": [
+      { "name": "Black", "code": "#000000", "stock": 20 },
+      { "name": "Gray", "code": "#757575", "stock": 15 },
+      { "name": "White", "code": "#FAFAFA", "stock": 10 }
+    ],
+    "sizes": [
+      { "name": "2 Drawers", "code": "S", "priceAdjustment": -1500000 },
+      { "name": "3 Drawers", "code": "M", "priceAdjustment": 0 },
+      { "name": "4 Drawers", "code": "L", "priceAdjustment": 1500000 }
+    ],
+    "description": "Steel filing cabinet with lockable drawers for secure document storage. Perfect for home office or corporate use.",
+    "features": [
+      "Lockable drawers",
+      "Smooth ball bearing slides",
+      "Letter/legal size",
+      "Stackable design",
+      "Fire-resistant"
+    ],
+    "sku": "FILE-029-US",
+    "tags": [
+      "filing cabinet",
+      "office storage",
+      "document storage",
+      "lockable",
+      "steel"
+    ],
+    "relatedIds": [6, 10, 19]
+  },
+
+  {
+    "id": 30,
+    "name": "Bean Bag Chair Large",
+    "slug": "bean-bag-chair-large",
+    "category": "kids",
+    "price": 4500000,
+    "oldPrice": 6000000,
+    "discount": 25,
+    "rating": 4.6,
+    "reviewsCount": 156,
+    "isNew": true,
+    "isFeatured": false,
+    "stock": 60,
+    "material": "Faux Fur + EPS Beads",
+    "dimensions": "100x100x80 cm",
+    "weight": "12 kg",
+    "images": [
+      "/images/products/bean-bag-1.jpg",
+      "/images/products/bean-bag-2.jpg"
+    ],
+    "colors": [
+      { "name": "Gray Fur", "code": "#9E9E9E", "stock": 20 },
+      { "name": "White Fur", "code": "#FAFAFA", "stock": 15 },
+      { "name": "Pink Fur", "code": "#F8BBD0", "stock": 25 }
+    ],
+    "sizes": [
+      { "name": "Small", "code": "S", "priceAdjustment": -1000000 },
+      { "name": "Medium", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large", "code": "L", "priceAdjustment": 1000000 }
+    ],
+    "description": "Extra large bean bag chair filled with EPS beads for maximum comfort. Perfect for kids' room, gaming room, or relaxation area.",
+    "features": [
+      "Faux fur cover",
+      "Removable washable cover",
+      "High-density EPS beads",
+      "Child-safe materials",
+      "Lightweight and portable"
+    ],
+    "sku": "BEANBAG-030-CN",
+    "tags": [
+      "bean bag",
+      "kids furniture",
+      "gaming chair",
+      "comfort",
+      "portable"
+    ],
+    "relatedIds": [7, 16, 25]
+  },
+
+  {
+    "id": 31,
+    "name": "Wall Shelves Set",
+    "slug": "wall-shelves-set",
+    "category": "living",
+    "price": 3500000,
+    "oldPrice": 4500000,
+    "discount": 22,
+    "rating": 4.5,
+    "reviewsCount": 189,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 85,
+    "material": "Solid Wood + Metal Brackets",
+    "dimensions": "60x20x15 cm each",
+    "weight": "5 kg each",
+    "images": [
+      "/images/products/wall-shelves-1.jpg",
+      "/images/products/wall-shelves-2.jpg"
+    ],
+    "colors": [
+      { "name": "Natural Wood", "code": "#8D6E63", "stock": 30 },
+      { "name": "Black", "code": "#212121", "stock": 30 },
+      { "name": "White", "code": "#FFFFFF", "stock": 25 }
+    ],
+    "sizes": [
+      { "name": "Set of 3", "code": "S", "priceAdjustment": -1000000 },
+      { "name": "Set of 5", "code": "M", "priceAdjustment": 0 },
+      { "name": "Set of 7", "code": "L", "priceAdjustment": 1500000 }
+    ],
+    "description": "Set of floating wall shelves with invisible brackets. Perfect for displaying books, plants, and decorative items.",
+    "features": [
+      "Invisible mounting",
+      "Solid wood construction",
+      "Easy to install",
+      "Weight capacity 15kg/shelf",
+      "Adjustable spacing"
+    ],
+    "sku": "SHELF-031-NL",
+    "tags": ["wall shelves", "floating shelves", "display", "storage", "decor"],
+    "relatedIds": [9, 11, 15]
+  },
+
+  {
+    "id": 32,
+    "name": "Bar Cabinet Vintage",
+    "slug": "bar-cabinet-vintage",
+    "category": "dining",
+    "price": 18500000,
+    "oldPrice": 23500000,
+    "discount": 21,
+    "rating": 4.7,
+    "reviewsCount": 45,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 18,
+    "material": "Solid Wood + Glass",
+    "dimensions": "120x45x180 cm",
+    "weight": "65 kg",
+    "images": [
+      "/images/products/bar-cabinet-1.jpg",
+      "/images/products/bar-cabinet-2.jpg"
+    ],
+    "colors": [
+      { "name": "Cherry Wood", "code": "#6D4C41", "stock": 8 },
+      { "name": "Mahogany", "code": "#4E342E", "stock": 6 },
+      { "name": "Walnut", "code": "#5D4037", "stock": 4 }
+    ],
+    "sizes": [
+      { "name": "Small (100cm)", "code": "S", "priceAdjustment": -3000000 },
+      { "name": "Medium (120cm)", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large (150cm)", "code": "L", "priceAdjustment": 4000000 }
+    ],
+    "description": "Vintage-style bar cabinet with glass doors, interior lighting, and wine glass rack. Perfect for entertaining guests.",
+    "features": [
+      "Glass display doors",
+      "Interior LED lighting",
+      "Wine glass rack",
+      "Lockable cabinet",
+      "Adjustable shelves"
+    ],
+    "sku": "BAR-032-FR",
+    "tags": [
+      "bar cabinet",
+      "wine cabinet",
+      "liquor cabinet",
+      "vintage",
+      "entertainment"
+    ],
+    "relatedIds": [2, 14, 22]
+  },
+
+  {
+    "id": 33,
+    "name": "Standing Desk Electric",
+    "slug": "standing-desk-electric",
+    "category": "office",
+    "price": 22500000,
+    "oldPrice": 28500000,
+    "discount": 21,
+    "rating": 4.8,
+    "reviewsCount": 167,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 32,
+    "material": "Steel + Engineered Wood",
+    "dimensions": "140x70x75-125 cm",
+    "weight": "55 kg",
+    "images": [
+      "/images/products/standing-desk-1.jpg",
+      "/images/products/standing-desk-2.jpg"
+    ],
+    "colors": [
+      { "name": "White", "code": "#FFFFFF", "stock": 12 },
+      { "name": "Black", "code": "#212121", "stock": 12 },
+      { "name": "Wood Grain", "code": "#A1887F", "stock": 8 }
+    ],
+    "sizes": [
+      { "name": "120cm", "code": "S", "priceAdjustment": -3000000 },
+      { "name": "140cm", "code": "M", "priceAdjustment": 0 },
+      { "name": "160cm", "code": "L", "priceAdjustment": 4000000 }
+    ],
+    "description": "Electric height-adjustable standing desk with memory presets and cable management. Promote better posture and health.",
+    "features": [
+      "Electric height adjustment",
+      "Memory presets (4 positions)",
+      "Cable management tray",
+      "Anti-collision system",
+      "Quiet dual motors"
+    ],
+    "sku": "STAND-033-DE",
+    "tags": [
+      "standing desk",
+      "adjustable desk",
+      "electric",
+      "ergonomic",
+      "home office"
+    ],
+    "relatedIds": [6, 10, 19]
+  },
+
+  {
+    "id": 34,
+    "name": "Outdoor Swing Chair",
+    "slug": "outdoor-swing-chair",
+    "category": "outdoor",
+    "price": 12500000,
+    "oldPrice": 15500000,
+    "discount": 19,
+    "rating": 4.6,
+    "reviewsCount": 78,
+    "isNew": true,
+    "isFeatured": false,
+    "stock": 25,
+    "material": "Rattan + Cushions",
+    "dimensions": "100x100x200 cm",
+    "weight": "35 kg",
+    "images": [
+      "/images/products/swing-chair-1.jpg",
+      "/images/products/swing-chair-2.jpg"
+    ],
+    "colors": [
+      { "name": "Gray Rattan", "code": "#757575", "stock": 10 },
+      { "name": "Natural Rattan", "code": "#8D6E63", "stock": 8 },
+      { "name": "White Rattan", "code": "#F5F5F5", "stock": 7 }
+    ],
+    "sizes": [
+      { "name": "Single", "code": "S", "priceAdjustment": -3000000 },
+      { "name": "Double", "code": "D", "priceAdjustment": 0 }
+    ],
+    "description": "Hanging swing chair with waterproof cushions and sturdy frame. Perfect for porch, patio, or garden relaxation.",
+    "features": [
+      "Waterproof cushions",
+      "Sturdy steel frame",
+      "Easy to hang",
+      "Weather-resistant",
+      "Comfortable padding"
+    ],
+    "sku": "SWING-034-ES",
+    "tags": ["swing chair", "hanging chair", "outdoor", "garden", "relaxation"],
+    "relatedIds": [4, 12, 26]
+  },
+
+  {
+    "id": 35,
+    "name": "Storage Bed with Drawers",
+    "slug": "storage-bed-with-drawers",
+    "category": "bedroom",
+    "price": 21500000,
+    "oldPrice": 26500000,
+    "discount": 19,
+    "rating": 4.7,
+    "reviewsCount": 134,
+    "isNew": false,
+    "isFeatured": true,
+    "stock": 28,
+    "material": "Engineered Wood + Fabric",
+    "dimensions": "200x180x50 cm",
+    "weight": "95 kg",
+    "images": [
+      "/images/products/storage-bed-1.jpg",
+      "/images/products/storage-bed-2.jpg"
+    ],
+    "colors": [
+      { "name": "Gray Fabric", "code": "#757575", "stock": 12 },
+      { "name": "Navy Blue", "code": "#0D47A1", "stock": 8 },
+      { "name": "Beige Linen", "code": "#D7CCC8", "stock": 8 }
+    ],
+    "sizes": [
+      { "name": "Queen", "code": "Q", "priceAdjustment": -3000000 },
+      { "name": "King", "code": "K", "priceAdjustment": 0 }
+    ],
+    "description": "Platform bed with 4 large storage drawers and upholstered headboard. Maximize storage space in bedroom.",
+    "features": [
+      "4 storage drawers",
+      "Upholstered headboard",
+      "No box spring needed",
+      "Soft-close drawers",
+      "Easy assembly"
+    ],
+    "sku": "STORBED-035-SE",
+    "tags": [
+      "storage bed",
+      "bed with drawers",
+      "platform bed",
+      "bedroom storage",
+      "space saving"
+    ],
+    "relatedIds": [5, 17, 13]
+  },
+
+  {
+    "id": 36,
+    "name": "Kids Play Table Set",
+    "slug": "kids-play-table-set",
+    "category": "kids",
+    "price": 3500000,
+    "oldPrice": 4500000,
+    "discount": 22,
+    "rating": 4.5,
+    "reviewsCount": 89,
+    "isNew": true,
+    "isFeatured": false,
+    "stock": 45,
+    "material": "Plastic + MDF",
+    "dimensions": "Table: 80x50x48 cm | Chairs: 30x30x48 cm",
+    "weight": "15 kg",
+    "images": [
+      "/images/products/play-table-1.jpg",
+      "/images/products/play-table-2.jpg"
+    ],
+    "colors": [
+      { "name": "Primary Colors", "code": "#FF0000", "stock": 20 },
+      { "name": "Pastel Colors", "code": "#80CBC4", "stock": 15 },
+      { "name": "Neutral Colors", "code": "#9E9E9E", "stock": 10 }
+    ],
+    "sizes": [
+      { "name": "2 chairs", "code": "S", "priceAdjustment": -1000000 },
+      { "name": "4 chairs", "code": "M", "priceAdjustment": 0 }
+    ],
+    "description": "Children's play table and chairs set with rounded edges and easy-clean surface. Perfect for arts, crafts, and snacks.",
+    "features": [
+      "Rounded safety edges",
+      "Easy-clean surface",
+      "Non-toxic materials",
+      "Lightweight and portable",
+      "Stable construction"
+    ],
+    "sku": "PLAY-036-CA",
+    "tags": [
+      "kids table",
+      "play table",
+      "children furniture",
+      "arts and crafts",
+      "snack table"
+    ],
+    "relatedIds": [7, 16, 20]
+  },
+
+  {
+    "id": 37,
+    "name": "Sideboard Buffet",
+    "slug": "sideboard-buffet",
+    "category": "dining",
+    "price": 14500000,
+    "oldPrice": 18500000,
+    "discount": 22,
+    "rating": 4.4,
+    "reviewsCount": 67,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 22,
+    "material": "Solid Wood + Metal",
+    "dimensions": "180x45x85 cm",
+    "weight": "75 kg",
+    "images": [
+      "/images/products/sideboard-1.jpg",
+      "/images/products/sideboard-2.jpg"
+    ],
+    "colors": [
+      { "name": "Oak Wood", "code": "#8D6E63", "stock": 10 },
+      { "name": "Walnut", "code": "#5D4037", "stock": 7 },
+      { "name": "Black", "code": "#212121", "stock": 5 }
+    ],
+    "sizes": [
+      { "name": "120cm", "code": "S", "priceAdjustment": -4000000 },
+      { "name": "180cm", "code": "M", "priceAdjustment": 0 },
+      { "name": "240cm", "code": "L", "priceAdjustment": 6000000 }
+    ],
+    "description": "Dining room sideboard with glass doors and ample storage. Perfect for storing dishes, linens, and serving as buffet.",
+    "features": [
+      "Glass display doors",
+      "Multiple compartments",
+      "Soft-close drawers",
+      "Adjustable shelves",
+      "Wine rack option"
+    ],
+    "sku": "SIDE-037-FR",
+    "tags": [
+      "sideboard",
+      "buffet",
+      "dining storage",
+      "china cabinet",
+      "server"
+    ],
+    "relatedIds": [2, 9, 32]
+  },
+
+  {
+    "id": 38,
+    "name": "Office Reception Chair",
+    "slug": "office-reception-chair",
+    "category": "office",
+    "price": 9500000,
+    "oldPrice": 12000000,
+    "discount": 21,
+    "rating": 4.3,
+    "reviewsCount": 45,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 38,
+    "material": "Fabric + Chrome",
+    "dimensions": "60x60x80 cm",
+    "weight": "18 kg",
+    "images": [
+      "/images/products/reception-chair-1.jpg",
+      "/images/products/reception-chair-2.jpg"
+    ],
+    "colors": [
+      { "name": "Black Fabric", "code": "#263238", "stock": 15 },
+      { "name": "Gray Fabric", "code": "#546E7A", "stock": 12 },
+      { "name": "Blue Fabric", "code": "#1565C0", "stock": 11 }
+    ],
+    "sizes": [
+      { "name": "Small (100cm)", "code": "S", "priceAdjustment": -1500000 },
+      { "name": "Medium (140cm)", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large (180cm)", "code": "L", "priceAdjustment": 2000000 }
+    ],
+    "description": "Modern reception chair with chrome legs and comfortable cushioning. Stackable design for easy storage.",
+    "features": [
+      "Stackable design",
+      "Chrome legs",
+      "Comfortable cushion",
+      "Easy to clean",
+      "Modern design"
+    ],
+    "sku": "RECEP-038-UK",
+    "tags": [
+      "reception chair",
+      "office chair",
+      "stackable",
+      "waiting room",
+      "guest chair"
+    ],
+    "relatedIds": [10, 25, 29]
+  },
+
+  {
+    "id": 39,
+    "name": "Patio Umbrella",
+    "slug": "patio-umbrella",
+    "category": "outdoor",
+    "price": 4500000,
+    "oldPrice": 6000000,
+    "discount": 25,
+    "rating": 4.4,
+    "reviewsCount": 156,
+    "isNew": true,
+    "isFeatured": false,
+    "stock": 65,
+    "material": "Polyester + Aluminum",
+    "dimensions": "Ø300x240 cm",
+    "weight": "22 kg",
+    "images": [
+      "/images/products/patio-umbrella-1.jpg",
+      "/images/products/patio-umbrella-2.jpg"
+    ],
+    "colors": [
+      { "name": "Beige", "code": "#D7CCC8", "stock": 25 },
+      { "name": "Navy Blue", "code": "#0D47A1", "stock": 20 },
+      { "name": "Green", "code": "#2E7D32", "stock": 20 }
+    ],
+    "sizes": [
+      { "name": "240cm", "code": "S", "priceAdjustment": -1000000 },
+      { "name": "300cm", "code": "M", "priceAdjustment": 0 },
+      { "name": "360cm", "code": "L", "priceAdjustment": 1500000 }
+    ],
+    "description": "Market-style patio umbrella with tilt function and UV protection. Perfect for outdoor dining and lounging areas.",
+    "features": [
+      "Tilt function",
+      "UV protection fabric",
+      "Crank lift system",
+      "Wind vent",
+      "Weather-resistant"
+    ],
+    "sku": "UMBRELLA-039-US",
+    "tags": [
+      "patio umbrella",
+      "outdoor umbrella",
+      "sun shade",
+      "market umbrella",
+      "garden"
+    ],
+    "relatedIds": [4, 12, 26]
+  },
+
+  {
+    "id": 40,
+    "name": "Bathroom Vanity Set",
+    "slug": "bathroom-vanity-set",
+    "category": "bedroom",
+    "price": 18500000,
+    "oldPrice": 23500000,
+    "discount": 21,
+    "rating": 4.6,
+    "reviewsCount": 78,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 22,
+    "material": "Solid Wood + Ceramic",
+    "dimensions": "120x50x85 cm",
+    "weight": "95 kg",
+    "images": [
+      "/images/products/vanity-1.jpg",
+      "/images/products/vanity-2.jpg"
+    ],
+    "colors": [
+      { "name": "White", "code": "#FFFFFF", "stock": 10 },
+      { "name": "Gray", "code": "#9E9E9E", "stock": 7 },
+      { "name": "Navy Blue", "code": "#0D47A1", "stock": 5 }
+    ],
+    "sizes": [
+      { "name": "Single Sink", "code": "S", "priceAdjustment": -5000000 },
+      { "name": "Double Sink", "code": "D", "priceAdjustment": 0 }
+    ],
+    "description": "Complete bathroom vanity with ceramic sink, solid wood cabinet, and LED mirror. Modern design with ample storage.",
+    "features": [
+      "Ceramic sink included",
+      "LED mirror with demister",
+      "Soft-close drawers",
+      "Water-resistant finish",
+      "Easy installation"
+    ],
+    "sku": "VANITY-040-IT",
+    "tags": [
+      "bathroom vanity",
+      "bathroom cabinet",
+      "sink",
+      "led mirror",
+      "bathroom storage"
+    ],
+    "relatedIds": [5, 13, 17]
+  },
+
+  {
+    "id": 41,
+    "name": "Bookcase Ladder",
+    "slug": "bookcase-ladder",
+    "category": "living",
+    "price": 21500000,
+    "oldPrice": 26500000,
+    "discount": 19,
+    "rating": 4.7,
+    "reviewsCount": 45,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 18,
+    "material": "Solid Wood + Metal",
+    "dimensions": "200x40x240 cm",
+    "weight": "120 kg",
+    "images": [
+      "/images/products/ladder-bookcase-1.jpg",
+      "/images/products/ladder-bookcase-2.jpg"
+    ],
+    "colors": [
+      { "name": "Natural Oak", "code": "#8D6E63", "stock": 8 },
+      { "name": "Black", "code": "#212121", "stock": 6 },
+      { "name": "White Wash", "code": "#F5F5F5", "stock": 4 }
+    ],
+    "sizes": [
+      { "name": "180cm", "code": "S", "priceAdjustment": -4000000 },
+      { "name": "200cm", "code": "M", "priceAdjustment": 0 },
+      { "name": "240cm", "code": "L", "priceAdjustment": 6000000 }
+    ],
+    "description": "Floor-to-ceiling ladder bookcase with sliding ladder. Inspired by library design with multiple shelves for storage.",
+    "features": [
+      "Sliding library ladder",
+      "Multiple adjustable shelves",
+      "Solid wood construction",
+      "Can be anchored to wall",
+      "Timeless design"
+    ],
+    "sku": "LADDER-041-US",
+    "tags": [
+      "bookcase",
+      "ladder bookcase",
+      "library",
+      "storage",
+      "floor to ceiling"
+    ],
+    "relatedIds": [9, 17, 31]
+  },
+
+  {
+    "id": 42,
+    "name": "Garden Bench",
+    "slug": "garden-bench",
+    "category": "outdoor",
+    "price": 8500000,
+    "oldPrice": 11000000,
+    "discount": 23,
+    "rating": 4.5,
+    "reviewsCount": 67,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 32,
+    "material": "Teak Wood + Steel",
+    "dimensions": "150x60x85 cm",
+    "weight": "35 kg",
+    "images": [
+      "/images/products/garden-bench-1.jpg",
+      "/images/products/garden-bench-2.jpg"
+    ],
+    "colors": [
+      { "name": "Natural Teak", "code": "#8D6E63", "stock": 15 },
+      { "name": "Gray Teak", "code": "#757575", "stock": 12 },
+      { "name": "Black", "code": "#212121", "stock": 5 }
+    ],
+    "sizes": [
+      { "name": "120cm (2-seater)", "code": "S", "priceAdjustment": -1500000 },
+      { "name": "150cm (3-seater)", "code": "M", "priceAdjustment": 0 },
+      { "name": "180cm (4-seater)", "code": "L", "priceAdjustment": 2000000 }
+    ],
+    "description": "Classic garden bench made from weather-resistant teak wood. Perfect for gardens, parks, or outdoor seating areas.",
+    "features": [
+      "Weather-resistant teak",
+      "Sturdy steel frame",
+      "No maintenance required",
+      "Comfortable slatted seat",
+      "Easy to assemble"
+    ],
+    "sku": "BENCH-042-MY",
+    "tags": [
+      "garden bench",
+      "outdoor bench",
+      "park bench",
+      "teak wood",
+      "garden furniture"
+    ],
+    "relatedIds": [4, 12, 34]
+  },
+
+  {
+    "id": 43,
+    "name": "Nightstand Set of 2",
+    "slug": "nightstand-set-of-2",
+    "category": "bedroom",
+    "price": 7500000,
+    "oldPrice": 9500000,
+    "discount": 21,
+    "rating": 4.4,
+    "reviewsCount": 134,
+    "isNew": false,
+    "isFeatured": false,
+    "stock": 45,
+    "material": "MDF + Metal",
+    "dimensions": "45x40x55 cm each",
+    "weight": "15 kg each",
+    "images": [
+      "/images/products/nightstand-1.jpg",
+      "/images/products/nightstand-2.jpg"
+    ],
+    "colors": [
+      { "name": "White", "code": "#FFFFFF", "stock": 20 },
+      { "name": "Black", "code": "#212121", "stock": 15 },
+      { "name": "Walnut", "code": "#5D4037", "stock": 10 }
+    ],
+    "sizes": [
+      { "name": "Single", "code": "S", "priceAdjustment": -4000000 },
+      { "name": "Set of 2", "code": "M", "priceAdjustment": 0 }
+    ],
+    "description": "Set of 2 modern nightstands with drawer and open shelf. Perfect bedside storage for lamps, books, and essentials.",
+    "features": [
+      "Drawer with soft-close",
+      "Open shelf",
+      "Modern design",
+      "Easy assembly",
+      "Sturdy construction"
+    ],
+    "sku": "NIGHT-043-DE",
+    "tags": [
+      "nightstand",
+      "bedside table",
+      "bedroom furniture",
+      "storage",
+      "set of 2"
+    ],
+    "relatedIds": [5, 13, 35]
+  },
+
+  {
+    "id": 44,
+    "name": "Conference Table",
+    "slug": "conference-table",
+    "category": "office",
+    "price": 38500000,
+    "oldPrice": 48500000,
+    "discount": 21,
+    "rating": 4.8,
+    "reviewsCount": 45,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 12,
+    "material": "Solid Wood + Glass",
+    "dimensions": "300x120x75 cm",
+    "weight": "180 kg",
+    "images": [
+      "/images/products/conference-table-1.jpg",
+      "/images/products/conference-table-2.jpg"
+    ],
+    "colors": [
+      { "name": "Walnut", "code": "#5D4037", "stock": 5 },
+      { "name": "Oak", "code": "#8D6E63", "stock": 4 },
+      { "name": "Mahogany", "code": "#4E342E", "stock": 3 }
+    ],
+    "sizes": [
+      { "name": "8-seater", "code": "S", "priceAdjustment": -10000000 },
+      { "name": "12-seater", "code": "M", "priceAdjustment": 0 },
+      { "name": "16-seater", "code": "L", "priceAdjustment": 15000000 }
+    ],
+    "description": "Executive conference table with built-in power outlets and cable management. Perfect for boardrooms and meeting rooms.",
+    "features": [
+      "Built-in power outlets",
+      "Cable management system",
+      "Solid wood construction",
+      "Glass top option",
+      "Modular design"
+    ],
+    "sku": "CONF-044-US",
+    "tags": [
+      "conference table",
+      "boardroom table",
+      "meeting table",
+      "executive",
+      "office furniture"
+    ],
+    "relatedIds": [19, 29, 33]
+  },
+
+  {
+    "id": 45,
+    "name": "Accent Cabinet Display",
+    "slug": "accent-cabinet-display",
+    "category": "living",
+    "price": 12500000,
+    "oldPrice": 15500000,
+    "discount": 19,
+    "rating": 4.5,
+    "reviewsCount": 56,
+    "isNew": true,
+    "isFeatured": false,
+    "stock": 25,
+    "material": "Metal + Glass",
+    "dimensions": "90x35x180 cm",
+    "weight": "45 kg",
+    "images": [
+      "/images/products/accent-cabinet-1.jpg",
+      "/images/products/accent-cabinet-2.jpg"
+    ],
+    "colors": [
+      { "name": "Black Metal", "code": "#000000", "stock": 10 },
+      { "name": "Brass", "code": "#B76E79", "stock": 8 },
+      { "name": "Chrome", "code": "#B0BEC5", "stock": 7 }
+    ],
+    "sizes": [
+      { "name": "Small (70cm)", "code": "S", "priceAdjustment": -3000000 },
+      { "name": "Medium (90cm)", "code": "M", "priceAdjustment": 0 },
+      { "name": "Large (120cm)", "code": "L", "priceAdjustment": 4000000 }
+    ],
+    "description": "Modern display cabinet with glass shelves and LED lighting. Perfect for showcasing collectibles, books, or decorative items.",
+    "features": [
+      "Glass shelves",
+      "LED interior lighting",
+      "Lockable glass door",
+      "Adjustable shelves",
+      "Modern geometric design"
+    ],
+    "sku": "DISPLAY-045-FR",
+    "tags": [
+      "display cabinet",
+      "accent cabinet",
+      "showcase",
+      "glass shelves",
+      "led lighting"
+    ],
+    "relatedIds": [9, 32, 41]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Going all-in with millennial design",
+    "slug": "going-all-in-with-millennial-design",
+    "excerpt": "Millennial design focuses on simplicity, functionality, and emotional connection within modern living spaces.",
+    "content": "Millennial design is more than just a trend — it represents a lifestyle that values simplicity, flexibility, and emotional comfort. This design approach emphasizes clean layouts, uncluttered spaces, and natural materials that help create a calm and welcoming environment.\n\nWooden textures, neutral color palettes, and soft lighting are commonly used to balance aesthetics with functionality. Furniture is carefully chosen not only for its visual appeal but also for its practicality, allowing spaces to adapt easily to work, rest, and social activities.\n\nTechnology is seamlessly integrated into the interior without dominating the space, supporting productivity while maintaining a sense of warmth and harmony. Millennial design ultimately creates interiors that feel modern, personal, and timeless.",
+    "image": "http://localhost:3001/images/blogs/going-all-in-with-millennial-design.jpg",
+    "author": "Admin",
+    "category": "Wood",
+    "published_at": "2022-10-14"
+  },
+  {
+    "id": 2,
+    "title": "Exploring new ways of decorating",
+    "slug": "exploring-new-ways-of-decorating",
+    "excerpt": "Creative decorating ideas that combine personality, flexibility, and modern aesthetics.",
+    "content": "Decorating a home today is no longer about following strict rules — it is about expressing individuality. Modern decorating trends encourage mixing textures, experimenting with colors, and combining old and new elements in a single space.\n\nFrom modular furniture to removable wall art, flexibility plays a key role in contemporary interiors. These solutions allow homeowners to refresh their spaces easily without major renovations.\n\nBy focusing on personal taste and functional design, decorating becomes an ongoing creative process rather than a one-time decision, making living spaces more dynamic and inspiring.",
+    "image": "http://localhost:3001/images/blogs/exploring-new-ways-of-decorating.jpg",
+    "author": "Admin",
+    "category": "Interior",
+    "published_at": "2022-08-03"
+  },
+  {
+    "id": 3,
+    "title": "Handmade pieces that took time to make",
+    "slug": "handmade-pieces-that-took-time-to-make",
+    "excerpt": "Handcrafted furniture and decor that celebrate patience, skill, and authenticity.",
+    "content": "Handmade pieces bring a sense of authenticity and warmth that mass-produced items often lack. Each product reflects the time, care, and craftsmanship invested by skilled artisans.\n\nFrom hand-carved wooden tables to woven textiles, these pieces often feature subtle imperfections that make them unique. They tell a story of tradition, creativity, and human connection.\n\nIncorporating handmade items into modern interiors adds character and depth, creating spaces that feel personal, meaningful, and timeless.",
+    "image": "http://localhost:3001/images/blogs/handmade-pieces-that-took-time-to-make.jpg",
+    "author": "Admin",
+    "category": "Handmade",
+    "published_at": "2022-08-03"
+  },
+  {
+    "id": 4,
+    "title": "Modern home in Milan",
+    "slug": "modern-home-in-milan",
+    "excerpt": "A look inside a Milanese home that blends modern design with classic elegance.",
+    "content": "This modern home in Milan perfectly balances contemporary aesthetics with classic Italian elegance. Clean architectural lines are softened by warm materials such as wood, stone, and fabric.\n\nLarge windows allow natural light to flow through the space, enhancing the feeling of openness and connection with the surrounding city. Carefully selected furniture pieces highlight simplicity while maintaining a luxurious atmosphere.\n\nThe result is a home that feels both modern and timeless, reflecting Milan’s reputation as a global design capital.",
+    "image": "http://localhost:3001/images/blogs/going-all-in-with-millennial-design.jpg",
+    "author": "Admin",
+    "category": "Interior",
+    "published_at": "2022-08-03"
+  },
+  {
+    "id": 5,
+    "title": "Colorful office redesign",
+    "slug": "colorful-office-redesign",
+    "excerpt": "How color can transform office spaces into creative and productive environments.",
+    "content": "Office design has evolved beyond neutral tones and rigid layouts. Introducing color into workspaces can significantly impact mood, creativity, and productivity.\n\nBright accent walls, playful furniture, and thoughtful lighting choices help energize employees while maintaining professionalism. Color zoning can also define different work areas, from focus zones to collaborative spaces.\n\nA well-designed, colorful office encourages innovation, improves employee satisfaction, and reflects a company’s brand identity.",
+    "image": "http://localhost:3001/images/blogs/exploring-new-ways-of-decorating.jpg",
+    "author": "Admin",
+    "category": "Design",
+    "published_at": "2022-08-03"
+  },
+  {
+    "id": 6,
+    "title": "Crafted wood furniture collection",
+    "slug": "crafted-wood-furniture-collection",
+    "excerpt": "A curated collection of wood furniture that highlights natural beauty and craftsmanship.",
+    "content": "Wood furniture remains a timeless choice thanks to its durability, warmth, and natural beauty. This crafted collection focuses on showcasing the unique grain and texture of each piece of wood.\n\nDesigners carefully combine traditional woodworking techniques with modern forms to create furniture that feels both classic and contemporary. Sustainability is also a key consideration, with responsibly sourced materials used throughout the collection.\n\nThese wood furniture pieces bring comfort, elegance, and a strong connection to nature into any interior space.",
+    "image": "http://localhost:3001/images/blogs/handmade-pieces-that-took-time-to-make.jpg",
+    "author": "Admin",
+    "category": "Crafts",
+    "published_at": "2022-08-03"
+  }
+]
