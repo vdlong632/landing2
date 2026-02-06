@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Asgaard Premium Sofa",
+    "name": "Asgaard Sofa",
     "slug": "asgaard-premium-sofa",
     "category": "living",
     "price": 28500000,
@@ -44,7 +44,7 @@
   },
   {
     "id": 2,
-    "name": "Syltherine Dining Set",
+    "name": "Syltherine",
     "slug": "syltherine-dining-set",
     "category": "dining",
     "price": 18500000,
@@ -86,7 +86,7 @@
 
   {
     "id": 3,
-    "name": "Leviosa Lounge Chair",
+    "name": "Leviosa",
     "slug": "leviosa-lounge-chair",
     "category": "living",
     "price": 8500000,
@@ -128,7 +128,7 @@
 
   {
     "id": 4,
-    "name": "Respira Outdoor Set",
+    "name": "Respira",
     "slug": "respira-outdoor-set",
     "category": "outdoor",
     "price": 23500000,
@@ -169,7 +169,7 @@
 
   {
     "id": 5,
-    "name": "Grifo King Size Bed",
+    "name": "Grifo",
     "slug": "grifo-king-size-bed",
     "category": "bedroom",
     "price": 32500000,
@@ -216,7 +216,7 @@
 
   {
     "id": 6,
-    "name": "Muggo Study Desk",
+    "name": "Muggo",
     "slug": "muggo-study-desk",
     "category": "office",
     "price": 7500000,
@@ -265,7 +265,7 @@
 
   {
     "id": 7,
-    "name": "Pingky Kids Bed",
+    "name": "Pingky",
     "slug": "pingky-kids-bed",
     "category": "kids",
     "price": 12500000,
@@ -313,7 +313,7 @@
 
   {
     "id": 8,
-    "name": "Lolito Ottoman Set",
+    "name": "Lolito",
     "slug": "lolito-ottoman-set",
     "category": "living",
     "price": 14500000,
@@ -397,7 +397,7 @@
 
   {
     "id": 10,
-    "name": "Ergonomic Office Chair",
+    "name": "Ergonomic",
     "slug": "ergonomic-office-chair",
     "category": "office",
     "price": 12500000,
@@ -445,7 +445,7 @@
 
   {
     "id": 11,
-    "name": "Nordic Coffee Table",
+    "name": "Nordic",
     "slug": "nordic-coffee-table",
     "category": "living",
     "price": 6500000,
@@ -487,7 +487,7 @@
 
   {
     "id": 12,
-    "name": "Outdoor Lounge Set",
+    "name": "Outdoor",
     "slug": "outdoor-lounge-set",
     "category": "outdoor",
     "price": 28500000,
@@ -528,7 +528,7 @@
 
   {
     "id": 13,
-    "name": "Dressing Table with Mirror",
+    "name": "Dressing",
     "slug": "dressing-table-with-mirror",
     "category": "bedroom",
     "price": 9500000,
@@ -658,7 +658,7 @@
 
   {
     "id": 16,
-    "name": "Kids Study Desk",
+    "name": "Kids",
     "slug": "kids-study-desk",
     "category": "kids",
     "price": 5500000,
@@ -743,7 +743,7 @@
 
   {
     "id": 18,
-    "name": "Accent Chair Velvet",
+    "name": "Accent",
     "slug": "accent-chair-velvet",
     "category": "living",
     "price": 8500000,
